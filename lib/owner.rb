@@ -30,7 +30,7 @@ class Owner
   
   def cats
     Cat.all
-    binding.pry
+    #binding.pry
     
     #all_cats.map {|owner|}
     
